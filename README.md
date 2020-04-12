@@ -1,2 +1,3 @@
-# hello-world
-test repo
+# maven-project
+
+Simple Maven Project
